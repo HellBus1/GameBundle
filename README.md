@@ -1,6 +1,13 @@
 # Simple Game Bundle
 
-Bundle of simple game project like tetris, arkanoid etc
+Bundle of simple game project like tetris, arkanoid etc build with flutter & dart
+
+## Prerequisites
+- Dart & Flutter
+- Android Studio (recommended)
+
+## Todo List
+1) Tetris (On Going)
 
 ## Getting Started
 
