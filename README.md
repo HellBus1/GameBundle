@@ -1,4 +1,4 @@
-# bundle_of_simple_game
+# Simple Game Bundle
 
 Bundle of simple game project like tetris, arkanoid etc
 
